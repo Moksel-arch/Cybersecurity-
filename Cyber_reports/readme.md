@@ -42,8 +42,7 @@ An XSS flaw could lead to account takeover, data theft, and POPIA breaches.
 This project demonstrates the ability to identify, report, and recommend fixes for vulnerabilities that directly impact customer data protection and regulatory compliance.
 
 ##  Full Report
-[Download Full XSS Assessment Report](LINK_TO_YOUR_PDF_ON_GOOGLE_DRIVE)
-https://drive.google.com/file/d/1TJzXHwRVaoFwVnJclIkzZ3_r5aQlLoj2/view?usp=sharing
+[Download Full XSS Assessment Report](https://drive.google.com/file/d/1TJzXHwRVaoFwVnJclIkzZ3_r5aQlLoj2/view?usp=drive_link)
 https://drive.google.com/file/d/1TJzXHwRVaoFwVnJclIkzZ3_r5aQlLoj2/view?usp=drive_link
 
 ## Disclaimer
