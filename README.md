@@ -43,7 +43,6 @@ This portfolio demonstrates:
 2.  **Risk**: Ability to assess controls and protect customer data per POPIA and banking regulations
 3.  **Reporting**: Ability to communicate risk clearly to technical and business stakeholders
 
-##  Repository Structure
 
 ---
 Contacts:
