@@ -44,8 +44,17 @@ This portfolio demonstrates:
 3.  **Reporting**: Ability to communicate risk clearly to technical and business stakeholders
 
 
+##  Disclaimer
+All assessments were performed with explicit authorization on test environments. This portfolio is for demonstration of skills only. Do not attempt on systems without permission.
+
+##  Contact
+Open to Cybersecurity, Risk, and Cloud Security opportunities.  
+Let's connect on LinkedIn or reach me via email.
+
 ---
 Contacts:
 - Mokgadi Selepe
-- Mokgadi: 067 719 3860
-- mokgadi9939@gmail.com
+- Phone: 067 719 3860  
+- Email: mokgadi9939@gmail.com  
+- LinkedIn: www.linkedin.com/in/mokgadi-selepe-265875b7  
+- My Overall GitHub: https://github.com/Moksel-arch 
