@@ -36,7 +36,7 @@ Performed a comprehensive security assessment of the Argus Center. Evaluated phy
 | **Reporting** | Technical Reporting, Risk Ratings, Executive Summary, Remediation |
 | **Tools** | Burp Suite, OWASP ZAP, Browser DevTools |
 
-##  Relevance to Banking & FNB
+##  Relevance to Banking Industry
 Financial institutions require strong defenses against both application-level attacks and physical/data risks. 
 This portfolio demonstrates:
 1.  **AppSec**: Ability to find and fix vulnerabilities that could lead to customer account takeover
