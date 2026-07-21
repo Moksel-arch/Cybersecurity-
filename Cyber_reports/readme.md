@@ -43,7 +43,6 @@ This project demonstrates the ability to identify, report, and recommend fixes f
 
 ##  Full Report
 [Download Full XSS Assessment Report](https://drive.google.com/file/d/1TJzXHwRVaoFwVnJclIkzZ3_r5aQlLoj2/view?usp=drive_link)
-https://drive.google.com/file/d/1TJzXHwRVaoFwVnJclIkzZ3_r5aQlLoj2/view?usp=drive_link
 
 ## Disclaimer
 This assessment was conducted for educational and portfolio purposes only. All testing was done on authorized test environments. Do not attempt on systems without permission.
