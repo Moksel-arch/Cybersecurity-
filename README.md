@@ -18,6 +18,7 @@ Conducted a controlled XSS assessment to identify input validation vulnerabiliti
 **Artifacts**: `XSS_PoC` `Risk Ratings` `Remediation Plan`
 **Report**: [Download Full XSS Report](https://drive.google.com/file/d/1TJzXHwRVaoFwVnJclIkzZ3_r5aQlLoj2/view?usp=drive_link)
 
+===
 ### 2. Risk & Physical Security Assessment: Argus Center
 **Focus**: Risk Assessment | Physical Security | Data Protection | POPIA
 **Summary**:  
