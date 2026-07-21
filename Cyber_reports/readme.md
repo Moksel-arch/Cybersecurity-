@@ -29,7 +29,7 @@ The assessment followed OWASP Testing Guide v4.2 methodology:
 *Full technical details, screenshots, and PoC are in the attached report.*
 
 ##  Recommendations
-Aligned to OWASP and FNB Secure Coding Standards:
+Aligned to OWASP and Banks Secure Coding Standards:
 1.  **Input Validation**: Validate and sanitize all user inputs server-side
 2.  **Output Encoding**: Encode data before rendering in HTML, JS, URL contexts
 3.  **Content Security Policy**: Implement CSP headers to block inline scripts
@@ -37,7 +37,7 @@ Aligned to OWASP and FNB Secure Coding Standards:
 5.  **Security Testing**: Integrate SAST/DAST into CI/CD pipeline
 
 ##  Banking Relevance
-XSS is a top 10 OWASP risk and critical for financial institutions like FNB. 
+XSS is a top 10 OWASP risk and critical for financial institutions. 
 An XSS flaw could lead to account takeover, data theft, and POPIA breaches. 
 This project demonstrates the ability to identify, report, and recommend fixes for vulnerabilities that directly impact customer data protection and regulatory compliance.
 
