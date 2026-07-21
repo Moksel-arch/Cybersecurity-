@@ -5,7 +5,7 @@ This portfolio showcases hands-on cybersecurity projects focused on Risk Assessm
 All assessments were conducted in authorized environments for educational and portfolio purposes.
 
 Target roles: **Cybersecurity Analyst, Risk Analyst, Application Security, Cloud Security**  
-Relevant to: **FNB, Banking, Financial Services, Enterprise Security**
+Relevant to: **Banking, Financial Services, Enterprise Security**
 
 ##  Featured Projects
 
