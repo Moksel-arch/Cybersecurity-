@@ -49,3 +49,9 @@ This assessment was conducted for educational and portfolio purposes only. All t
 
 ##  Skills Demonstrated
 `Web Application Security` `OWASP Top 10` `Vulnerability Assessment` `Risk Reporting` `Secure Coding` `Burp Suite` `Threat Modeling`
+
+---
+Contacts:
+- Mokgadi Selepe
+- Mokgadi: 067 719 3860
+- mokgadi9939@gmail.com
